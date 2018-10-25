@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual_Field_Testing_GE", "Visual_Field_Testing_GE.csproj", "{665EF63F-E2EF-F9C0-FC79-7FBCD471545B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual_Field_Testing_GE.Editor", "Visual_Field_Testing_GE.Editor.csproj", "{90AB229B-E28C-EFA9-BBC6-B7593C6F4E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665EF63F-E2EF-F9C0-FC79-7FBCD471545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665EF63F-E2EF-F9C0-FC79-7FBCD471545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665EF63F-E2EF-F9C0-FC79-7FBCD471545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665EF63F-E2EF-F9C0-FC79-7FBCD471545B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AB229B-E28C-EFA9-BBC6-B7593C6F4E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB229B-E28C-EFA9-BBC6-B7593C6F4E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB229B-E28C-EFA9-BBC6-B7593C6F4E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB229B-E28C-EFA9-BBC6-B7593C6F4E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dissertation Practice 2", "Dissertation Practice 2.csproj", "{00ACA4ED-8A12-E978-7ABA-4AF583FB4E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dissertation Practice 2.Editor", "Dissertation Practice 2.Editor.csproj", "{3B0163E8-FFDC-AF4E-5811-0D8B018A0A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00ACA4ED-8A12-E978-7ABA-4AF583FB4E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ACA4ED-8A12-E978-7ABA-4AF583FB4E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ACA4ED-8A12-E978-7ABA-4AF583FB4E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ACA4ED-8A12-E978-7ABA-4AF583FB4E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0163E8-FFDC-AF4E-5811-0D8B018A0A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0163E8-FFDC-AF4E-5811-0D8B018A0A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0163E8-FFDC-AF4E-5811-0D8B018A0A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0163E8-FFDC-AF4E-5811-0D8B018A0A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
